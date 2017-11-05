@@ -1,6 +1,6 @@
 #!/usr/binpython
 """
-    第一个python程序
-    打印Hello World!!!
+    绗竴涓猵ython绋嬪簭
+    鎵撳嵃Hello World!!!
 """
 print "Hello World!!!";

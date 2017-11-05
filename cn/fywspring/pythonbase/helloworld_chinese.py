@@ -1,4 +1,4 @@
-#!/usr/binpython
+#!/usr/bin/python
 # -*- coding: UTF-8 -*-
 """
     第二个python程序

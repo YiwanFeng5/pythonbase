@@ -5,4 +5,4 @@
     打印Hello World!!!
 """
 print "Hello World!!!";
-raw_input("\n\n按回车退出")
+raw_input("\n\n按回车�??�?")
